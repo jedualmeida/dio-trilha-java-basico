@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositório para exemplos e exercícios do curso de Java Básico disponibilizado pela DIO.
+Repositório para exemplos e exercícios realizados no curso de "Java Básico" dentro do Bootcamp Java Developer da DIO.
