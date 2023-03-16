@@ -1,7 +1,7 @@
 package edu.jedualmeida.anatomiadasclasses;
 
 public class MinhaClasse {
- public static void main (String [] args) {
+ public static void main (String[] args) {
 
     // Declarando uma Variável
 
