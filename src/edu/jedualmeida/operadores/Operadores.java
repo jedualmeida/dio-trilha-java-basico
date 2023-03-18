@@ -1,7 +1,5 @@
 package edu.jedualmeida.operadores;
 
-import java.util.FormatterClosedException;
-
 public class Operadores {
     public static void main (String [] args) {
 
