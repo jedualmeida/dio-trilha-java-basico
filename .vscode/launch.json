@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.jedualmeida.anatomiadasclasses.BoletimEstudantil",
+            "projectName": "dio-trilha-java-basico_1c54fa7d"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.jedualmeida.anatomiadasclasses.MinhaClasse",
+            "projectName": "dio-trilha-java-basico_1c54fa7d"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "edu.jedualmeida.javadoc.Comentarios",
+            "projectName": "dio-trilha-java-basico_1c54fa7d"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.jedualmeida.metodos.Usuario",
+            "projectName": "dio-trilha-java-basico_1c54fa7d"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.jedualmeida.operadores.Operadores",
+            "projectName": "dio-trilha-java-basico_1c54fa7d"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "edu.jedualmeida.terminaleargumentos.MinhaClasse",
+            "projectName": "dio-trilha-java-basico_1c54fa7d"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.jedualmeida.tiposevariaveis.TiposVariaveis",
+            "projectName": "dio-trilha-java-basico_1c54fa7d"
+        }
+    ]
+}
